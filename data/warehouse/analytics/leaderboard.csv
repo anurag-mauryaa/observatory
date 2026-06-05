@@ -1,0 +1,7 @@
+rank,api_name,avg_reliability_score,avg_health_score,avg_sla_score,avg_response_time_ms,leaderboard_score
+1,JSONPlaceholder,99.93,99.03,99.93,86.85,99.66
+2,GitHub,100.0,98.12,100.0,188.16,99.44
+3,StackExchange,99.07,95.59,99.07,300.88,98.02
+4,SpaceX,97.78,92.27,97.78,440.46,96.13
+5,OpenLibrary,97.92,89.15,97.92,772.17,95.29
+6,CoinGecko,95.47,89.94,95.47,326.24,93.81

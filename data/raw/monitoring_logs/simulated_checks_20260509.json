@@ -1,0 +1,2882 @@
+[
+    {
+        "monitoring_id": "d981c65c-ec75-4516-9ffd-e592734f77d0",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T00:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 228.94,
+        "response_size_bytes": 1110,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0772f96f-1d03-4fe7-897a-a0bcb0bce83d",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T00:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 297.26,
+        "response_size_bytes": 3783,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6d78f015-99e9-4d93-a814-3a242fd2b1b5",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T00:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 701.01,
+        "response_size_bytes": 7681,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "99c3fbfa-ef98-42b6-a613-10e43b5e7621",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T00:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 94.79,
+        "response_size_bytes": 2188,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a2466e68-ecf2-46a7-a3ca-bc1c0584d714",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T00:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 533.39,
+        "response_size_bytes": 15068,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "921f75be-df99-4e45-8b0b-cbadcd46f6e7",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T00:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 388.21,
+        "response_size_bytes": 4359,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b5f5cd71-b247-454a-9601-c1b35f10487f",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T00:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 189.07,
+        "response_size_bytes": 1260,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "feb85698-3fde-4953-8726-2e7a7b59c346",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T00:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 342.06,
+        "response_size_bytes": 3305,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "39489cc2-85da-421f-963e-be53265dae2c",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T00:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 735.45,
+        "response_size_bytes": 9298,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8f192096-ab9f-4c56-a068-62351f53ac7a",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T00:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 81.11,
+        "response_size_bytes": 2379,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c9245ada-ef31-4b9a-a590-c91b8e73f212",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T00:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 512.94,
+        "response_size_bytes": 14439,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d49bb4c3-6c20-4d99-86b5-ad585953b9ce",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T00:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 351.87,
+        "response_size_bytes": 4295,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "287b789f-9c66-42bd-b8e5-a58b1b315ca2",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T01:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 179.0,
+        "response_size_bytes": 1247,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "df74edd1-272a-41c2-80e8-eddab58a6edd",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T01:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 338.95,
+        "response_size_bytes": 3469,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2831f6c7-e746-41dc-a1ff-261dcc64fc31",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T01:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 624.37,
+        "response_size_bytes": 8060,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f15e3727-f6bc-42a2-8b42-4151ee9d67d4",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T01:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 93.34,
+        "response_size_bytes": 2313,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "639d9d2c-73e7-43e7-8406-9b6cc7309414",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T01:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 558.98,
+        "response_size_bytes": 15228,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "354e571f-ce85-44f9-b792-be4c2d26f0cb",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T01:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 397.92,
+        "response_size_bytes": 3983,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b4c3ab01-a0f0-44b7-90c3-d58c28b0ad79",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T01:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 178.83,
+        "response_size_bytes": 1143,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0b3766c5-b870-4fa6-a9c0-9a0546e9f3ba",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T01:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 354.06,
+        "response_size_bytes": 3481,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "41df429c-663f-4df0-92d5-c1f79a7296f7",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T01:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 749.74,
+        "response_size_bytes": 8900,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "dcba999d-f390-42f5-96ae-a70848ea556f",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T01:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 103.97,
+        "response_size_bytes": 2033,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6109a5e2-b33a-4b48-81bd-3bc49fd66eff",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T01:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 414.07,
+        "response_size_bytes": 14258,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "80d297ce-d46e-4a56-8e37-ebc5264c729a",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T01:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 413.2,
+        "response_size_bytes": 3730,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e5b1c41a-8563-4c95-9bbd-8509493b8ecb",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T02:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 223.71,
+        "response_size_bytes": 1178,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fc60be7a-8642-475e-8411-acff38fa0126",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T02:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 331.36,
+        "response_size_bytes": 3532,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8346cc63-71d9-4330-bc97-90a9c72bdfad",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T02:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 682.31,
+        "response_size_bytes": 8009,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6c70787a-1980-4848-949f-30382f12bbcf",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T02:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 81.63,
+        "response_size_bytes": 2244,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8729c81c-c11b-4119-b508-f486cafbcbfe",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T02:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 482.98,
+        "response_size_bytes": 13010,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a0542090-4809-4555-874a-e964697c777b",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T02:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 325.21,
+        "response_size_bytes": 4391,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1d251a29-41f9-4e1c-ba43-a36591a6b652",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T02:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 207.35,
+        "response_size_bytes": 1230,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "7ea48731-fbe7-4488-86c3-60e5311f45af",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T02:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 297.38,
+        "response_size_bytes": 3519,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "dd9a7fed-1198-49c1-8df2-e0b24f6d0640",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T02:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 712.59,
+        "response_size_bytes": 8988,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c2da9248-4e96-4c24-bf35-12f486357727",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T02:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 105.34,
+        "response_size_bytes": 2356,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b3cee733-08e5-4f92-8aa1-a970e735b3c2",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T02:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 507.69,
+        "response_size_bytes": 15045,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5296cd95-299f-49df-a8fb-d8be16d1c731",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T02:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 388.63,
+        "response_size_bytes": 4034,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d8f77fce-a58f-4f8a-a7c2-9ab30597008c",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T03:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 206.85,
+        "response_size_bytes": 1310,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "01f420cf-58e4-43ae-8f3c-bde741a1ca69",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T03:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 323.82,
+        "response_size_bytes": 3727,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b03b34ae-5536-40e9-b02a-2a83640d6aaf",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T03:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 743.76,
+        "response_size_bytes": 7992,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a3df7263-5fdc-4724-8c62-ae4d41d4122d",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T03:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 87.99,
+        "response_size_bytes": 2086,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0e59621e-6267-4f5c-9b7a-831f19cd999b",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T03:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 447.61,
+        "response_size_bytes": 15341,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "962f7077-54e6-4a0f-a156-42f2f64fac01",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T03:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 339.2,
+        "response_size_bytes": 3949,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4e3f3605-ef75-465f-8e55-04c72b9285ab",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T03:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 195.04,
+        "response_size_bytes": 1148,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b9b4eb3d-0784-4d58-97c0-d58580d9d1e2",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T03:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 332.45,
+        "response_size_bytes": 3345,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "7f1df009-123d-46a2-b838-038e34074ce8",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T03:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 674.3,
+        "response_size_bytes": 8548,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "aedf8d0b-2056-459f-ae77-23c79920574e",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T03:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 85.32,
+        "response_size_bytes": 2129,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "ab4b19cd-9871-406f-942f-ca3f3d952956",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T03:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 521.52,
+        "response_size_bytes": 13949,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9aa82849-762e-4def-9e61-7a233eed7189",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T03:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 402.35,
+        "response_size_bytes": 3769,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5e2a80cd-8436-415d-8dbb-0baf3f613b09",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T04:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 180.76,
+        "response_size_bytes": 1267,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c6aa46d5-12e8-4327-8845-bb834e6125c9",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T04:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 326.48,
+        "response_size_bytes": 3426,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "dbcbefd4-18cf-4576-994f-2cdbe17f5482",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T04:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 779.65,
+        "response_size_bytes": 8662,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d384ce75-49aa-44e3-ab54-8658fb30a7d2",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T04:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 94.47,
+        "response_size_bytes": 2243,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "073caa45-0041-4b0b-81a1-f3e3dda5dfd5",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T04:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 459.76,
+        "response_size_bytes": 13505,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6a4011e7-62ab-4240-b848-58eb29fcf404",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T04:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 312.81,
+        "response_size_bytes": 4132,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "aa6c454c-efcc-4881-a64f-48d9274fb668",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T04:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 232.21,
+        "response_size_bytes": 1173,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1c9363c8-cedc-409b-b86f-90f7d0069f7e",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T04:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 350.85,
+        "response_size_bytes": 3338,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2c984717-2219-4e36-8e36-58d195e0f354",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T04:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 655.88,
+        "response_size_bytes": 9098,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "88999258-392b-467d-abed-be114fb00fd4",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T04:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 84.36,
+        "response_size_bytes": 2014,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e6b5fad5-8ac9-4798-95ec-5a62893b39f9",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T04:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 550.27,
+        "response_size_bytes": 13205,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "78f79b48-1eb8-4937-ab35-752be0d2f554",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T04:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 336.57,
+        "response_size_bytes": 4385,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6b2981e2-af2f-40a3-98a6-2196acc50adb",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T05:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 215.7,
+        "response_size_bytes": 1207,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "741e4b2e-78a7-4c48-88f4-345bab9de204",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T05:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 289.46,
+        "response_size_bytes": 3254,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5002e34f-ccd4-4599-a699-ec464e471ece",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T05:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 794.05,
+        "response_size_bytes": 8135,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "80660f46-2528-4a64-bce2-6c8634c83695",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T05:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 85.1,
+        "response_size_bytes": 2320,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "158fdb03-2d4e-4e39-95b0-d2931e591364",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T05:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 557.31,
+        "response_size_bytes": 13554,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "39b172a6-1970-4a81-844d-efc8e78bde2a",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T05:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 378.86,
+        "response_size_bytes": 3956,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "244062a9-004c-4ee0-a1ac-a77684f96cf1",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T05:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 206.11,
+        "response_size_bytes": 1305,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "493d1a5e-b56a-44e2-be4c-66edb0d53988",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T05:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 285.97,
+        "response_size_bytes": 3689,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4e8175d0-77a8-4d12-9f73-3d8d1fcafd50",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T05:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 762.15,
+        "response_size_bytes": 8802,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "43979682-040e-4df9-995d-586afad7df6b",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T05:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 86.61,
+        "response_size_bytes": 2254,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9e6f12be-c81a-4e47-95b6-25a0d415f5d6",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T05:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 543.98,
+        "response_size_bytes": 12693,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "dd6ee905-98dd-4213-9c10-6ecf812c7d47",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T05:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 394.71,
+        "response_size_bytes": 4283,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f99cc798-6023-4427-969e-f77fe03c4a3b",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T06:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 211.54,
+        "response_size_bytes": 1242,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "761e1645-f814-4bec-9a5f-8da4747ed7de",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T06:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 323.79,
+        "response_size_bytes": 3160,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4b625156-bd3e-4369-aed8-9044961d4916",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T06:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 686.67,
+        "response_size_bytes": 7887,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "799eba57-4a84-424b-a4fc-e266c091e793",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T06:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 85.0,
+        "response_size_bytes": 2348,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4d0c625d-8afb-490c-9735-f1205977be88",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T06:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 440.24,
+        "response_size_bytes": 12993,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "ad0b493a-d2f0-4c3a-afe7-83be685e5681",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T06:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 385.38,
+        "response_size_bytes": 3893,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "369f199a-3224-47cb-999a-e03dfff385d9",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T06:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 226.5,
+        "response_size_bytes": 1119,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "21656ca8-511c-462f-bef6-329bbe70c002",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T06:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 342.74,
+        "response_size_bytes": 3520,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d7f5d15b-7798-4856-b967-da1743681a0b",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T06:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 708.61,
+        "response_size_bytes": 7866,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "eb49c385-9e3c-4ded-9487-1b1e1342dfe7",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T06:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 88.31,
+        "response_size_bytes": 2155,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "49bade2a-58aa-4f8a-8280-05910ecf8b4a",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T06:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 540.49,
+        "response_size_bytes": 15018,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1492eca2-9f2a-48fb-a958-d8d7b0a7fdc8",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T06:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 349.0,
+        "response_size_bytes": 3829,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "bac67a62-974e-454c-9f7a-d682cabe4eb3",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T07:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 200.1,
+        "response_size_bytes": 1136,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "12c583c5-4d00-4a23-bf36-67f2e20c9296",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T07:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 350.83,
+        "response_size_bytes": 3242,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1df1cc8c-9b1d-4897-a147-e48a8f03d6cf",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T07:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 810.74,
+        "response_size_bytes": 7895,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d6b384c1-6247-4f81-a3b2-f3d53e6b61b6",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T07:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 94.76,
+        "response_size_bytes": 2220,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "af79f143-dab4-46a9-b8fa-5e5697ea998d",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T07:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 489.19,
+        "response_size_bytes": 12894,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "356a87fd-705e-406d-b6ce-504922c978ae",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T07:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 368.49,
+        "response_size_bytes": 3671,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c35f74ff-8616-4b4f-a17b-af90fb383fc6",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T07:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 229.97,
+        "response_size_bytes": 1296,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "570c7bf1-2c71-4bdd-ac6f-423ea6f420c4",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T07:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 339.23,
+        "response_size_bytes": 3452,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c66c142f-0951-4ab2-874c-dbfaddee7ab1",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T07:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 644.75,
+        "response_size_bytes": 9207,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4597cbc7-cd04-4963-8114-9309bd2a8a55",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T07:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 105.39,
+        "response_size_bytes": 2372,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "699eb718-dbf6-443e-84ec-fcf0a91c30f6",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T07:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 526.66,
+        "response_size_bytes": 13695,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "3167e903-f64d-40d2-bb7d-7795df308365",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T07:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 361.16,
+        "response_size_bytes": 3744,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4680434a-06cd-47fc-88d9-c485c0f39f83",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T08:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 207.82,
+        "response_size_bytes": 1135,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a5173e58-8986-4272-89fb-81aa5061ad69",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T08:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 317.34,
+        "response_size_bytes": 3250,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8b127909-278e-4b93-8ef6-dde1b68723e2",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T08:00:00+00:00",
+        "status_code": 504,
+        "response_time_ms": null,
+        "response_size_bytes": null,
+        "availability_flag": 0,
+        "error_message": "Gateway Timeout: 504"
+    },
+    {
+        "monitoring_id": "887cf00e-21e2-4c0e-8252-133458930e9a",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T08:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 102.37,
+        "response_size_bytes": 2062,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d24d76e1-df5a-460a-bf8a-038c73f24c78",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T08:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 492.92,
+        "response_size_bytes": 15394,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f2b13f45-91ac-4673-b2b3-330fa4b9a9a5",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T08:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 326.99,
+        "response_size_bytes": 4350,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8bd03ea7-4eaf-4c77-9c31-9eaaf021c334",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T08:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 203.69,
+        "response_size_bytes": 1296,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "3531a893-1a78-40dd-b131-ba1b386da20b",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T08:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 325.1,
+        "response_size_bytes": 3444,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4cd13f8a-c563-4126-827c-7485f63118ed",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T08:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 1471.08,
+        "response_size_bytes": 7739,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "835cf2ee-49f5-4328-9974-99b13bfe6186",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T08:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 91.61,
+        "response_size_bytes": 2141,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9b2b8787-3c28-40e6-b607-132ad4ad8959",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T08:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 541.08,
+        "response_size_bytes": 12930,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "10527cd3-e9d0-41e1-911e-1b78099c9205",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T08:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 369.53,
+        "response_size_bytes": 4356,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2c1226e6-4c9e-4b07-9e39-d602f763d58d",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T09:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 182.16,
+        "response_size_bytes": 1157,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "730aa3c2-ed33-4fc0-bd46-14b370106379",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T09:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 358.74,
+        "response_size_bytes": 3771,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "756b0e06-d814-457b-a3e6-50e6c9e0b336",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T09:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 1520.02,
+        "response_size_bytes": 8144,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "45066d55-574c-4453-b2f2-dc4a16172b97",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T09:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 89.33,
+        "response_size_bytes": 2295,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "59fe92e7-3dcc-4c9f-ada7-308b29ca0fda",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T09:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 526.31,
+        "response_size_bytes": 12669,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "890dcb33-6ca9-4007-957a-b24aa560d08c",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T09:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 363.19,
+        "response_size_bytes": 4140,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "dbfb0ff3-3845-48ea-abea-d9d8c5b54ef2",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T09:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 233.23,
+        "response_size_bytes": 1258,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "007dce91-89d6-4886-b90d-489296279643",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T09:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 299.09,
+        "response_size_bytes": 3388,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "10e2eccf-668e-4714-a270-aa503eae6850",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T09:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 1393.07,
+        "response_size_bytes": 9132,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "7366bf26-a952-4c01-9e9a-de87466c80ab",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T09:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 83.32,
+        "response_size_bytes": 2263,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "292e9fd9-3940-400c-9fe1-c052e2bc7bb2",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T09:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 542.25,
+        "response_size_bytes": 14150,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9ddd5a0a-4c64-46b1-9cbb-d106cadf820a",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T09:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 374.16,
+        "response_size_bytes": 3743,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a9020ff3-5c3f-47c1-be67-eae19af5fb86",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T10:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 216.22,
+        "response_size_bytes": 1103,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "28a3e541-b408-442e-af4c-f1b715e96821",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T10:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 333.6,
+        "response_size_bytes": 3419,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6b8f5ee1-569b-4e69-8d08-f9224e7212f6",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T10:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 1437.87,
+        "response_size_bytes": 8816,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1754c4e1-9d01-438e-a8af-ea91624dbb2b",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T10:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 95.64,
+        "response_size_bytes": 2387,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a48b4744-935f-4159-a696-471d851e1cf2",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T10:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 530.83,
+        "response_size_bytes": 14802,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "737307b2-1911-405a-967b-3ea33819455a",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T10:00:00+00:00",
+        "status_code": 429,
+        "response_time_ms": null,
+        "response_size_bytes": null,
+        "availability_flag": 0,
+        "error_message": "Rate Limit Exceeded: 429 Too Many Requests"
+    },
+    {
+        "monitoring_id": "0c0aa4c0-ae07-4f5d-b7d4-33bdb352628c",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T10:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 223.13,
+        "response_size_bytes": 1104,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "3486c68c-8247-4697-818a-bd81aa51fe56",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T10:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 295.18,
+        "response_size_bytes": 3574,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4401fd17-b823-41a7-a0ce-339710fddd98",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T10:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 1437.88,
+        "response_size_bytes": 8640,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "40f5ab82-da41-4519-858e-1eb6fb09050d",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T10:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 105.93,
+        "response_size_bytes": 2165,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fbf02dc7-dc44-445f-af44-be11a25507bd",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T10:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 524.65,
+        "response_size_bytes": 14096,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "758c5d8b-a8a3-491f-8ee7-123ff0637fe0",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T10:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 415.34,
+        "response_size_bytes": 4165,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4b8588d2-7b21-47ee-a820-43f6d89437e9",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T11:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 192.36,
+        "response_size_bytes": 1225,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9a590c66-acbd-4b05-ac1c-b4e634e34657",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T11:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 306.99,
+        "response_size_bytes": 3493,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d562a72f-ac43-43b6-81cf-273d3dc3ba88",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T11:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 640.4,
+        "response_size_bytes": 8008,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f0b2ff13-e2a4-4884-bcf4-d83938b132b1",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T11:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 86.37,
+        "response_size_bytes": 2041,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8166e464-0982-4064-be6a-74315e7b04b4",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T11:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 544.46,
+        "response_size_bytes": 13992,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "42396885-7398-46d8-aaff-9b5f3717b74c",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T11:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 378.02,
+        "response_size_bytes": 3986,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6445c876-8626-4f8f-8249-1d60ef7f4090",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T11:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 198.66,
+        "response_size_bytes": 1279,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c4c90858-bd40-4b0f-b36c-03b292a80d15",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T11:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 353.14,
+        "response_size_bytes": 3495,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e37acf9a-73f8-4d55-ae3d-5e269267d58b",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T11:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 708.41,
+        "response_size_bytes": 9044,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "28f5a839-b088-4e19-b980-15f94fd782bd",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T11:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 80.39,
+        "response_size_bytes": 2288,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "abba5a83-ae3a-4deb-ade5-c04b0627b399",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T11:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 423.19,
+        "response_size_bytes": 13953,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "52e51fa2-21f9-4f70-849d-74fe7512e781",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T11:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 385.0,
+        "response_size_bytes": 4399,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a319f6b8-d804-40d3-ab30-d705e47dfe78",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T12:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 202.31,
+        "response_size_bytes": 1247,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e212138d-9376-4bbc-ae35-f6fe594f18dc",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T12:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 295.32,
+        "response_size_bytes": 3335,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a77e647a-6204-43cb-801b-a5c7d4739a97",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T12:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 698.06,
+        "response_size_bytes": 8136,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6a09b137-7842-40d9-8575-314f0a656881",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T12:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 95.19,
+        "response_size_bytes": 2136,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a19f3c7f-5049-4757-b9e0-06a9978c4f88",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T12:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 474.0,
+        "response_size_bytes": 14948,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2e666a44-a221-47b9-a14d-33ed0eefe66c",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T12:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 397.02,
+        "response_size_bytes": 3816,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b2359f77-a5ee-4e5c-8447-0ce5d83d69e1",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T12:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 197.1,
+        "response_size_bytes": 1230,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "250819b5-526d-4b9a-803d-877bb11ac7e4",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T12:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 282.49,
+        "response_size_bytes": 3402,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "3de81a35-97d5-45fc-8df6-13f7f435f104",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T12:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 672.31,
+        "response_size_bytes": 9242,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fd812e66-718f-4db0-9493-6c943a81e948",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T12:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 77.31,
+        "response_size_bytes": 2391,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "cee281dc-8686-4350-81fe-8047818b98b2",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T12:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 426.98,
+        "response_size_bytes": 14611,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "012783e7-4380-4829-aeb3-48fba5b2438b",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T12:30:00+00:00",
+        "status_code": 429,
+        "response_time_ms": null,
+        "response_size_bytes": null,
+        "availability_flag": 0,
+        "error_message": "Rate Limit Exceeded: 429 Too Many Requests"
+    },
+    {
+        "monitoring_id": "b9042c6b-e4a9-402a-b342-1ef4c3cb8a80",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T13:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 211.43,
+        "response_size_bytes": 1269,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "7c0a774d-61ed-491a-9b63-1fdd684a0ced",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T13:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 347.17,
+        "response_size_bytes": 3515,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d2fbcbc3-a0dd-48ae-b766-08e4d30b71c5",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T13:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 860.24,
+        "response_size_bytes": 8843,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e9157310-a927-449f-b348-1300a8742c95",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T13:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 92.86,
+        "response_size_bytes": 2301,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "812733a9-7642-4774-b696-09096cdfdab3",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T13:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 445.98,
+        "response_size_bytes": 13663,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e5d6fe09-61b7-4021-be48-e0a987c436f9",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T13:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 387.15,
+        "response_size_bytes": 4359,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f3f8ddb3-c4a2-4703-8662-c767dcab75d6",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T13:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 210.51,
+        "response_size_bytes": 1278,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "090e8baa-4837-4437-a80f-f02292134b88",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T13:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 325.05,
+        "response_size_bytes": 3754,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b55203ca-4fdb-4106-9d5c-e37511caeda3",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T13:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 701.28,
+        "response_size_bytes": 8370,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "ea6e82a4-5e7b-4f14-bf59-18a8c51b9b5c",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T13:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 96.64,
+        "response_size_bytes": 2009,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "492d6240-05e3-49aa-a960-16ed6e7764fc",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T13:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 540.18,
+        "response_size_bytes": 13596,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8d3d4176-8975-4cbc-ae16-7d163d05f099",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T13:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 396.46,
+        "response_size_bytes": 4210,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5d2ba905-a935-4ed1-8649-e4825793d3c0",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T14:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 202.33,
+        "response_size_bytes": 1080,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "ab5553a8-9398-448b-96e2-52125e5724b3",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T14:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 284.1,
+        "response_size_bytes": 3168,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0ff3b210-c3d0-4f7d-9791-d09acc6d59f3",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T14:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 747.98,
+        "response_size_bytes": 9074,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e87a511b-246b-4216-b751-5ba3443deafb",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T14:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 80.55,
+        "response_size_bytes": 2416,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d93ad83e-9fbf-4472-89bc-f3cd8c991b59",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T14:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 408.23,
+        "response_size_bytes": 15186,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "963a118d-261f-4969-a00c-d25e022e3251",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T14:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 359.5,
+        "response_size_bytes": 3739,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2d4b3609-761e-4e0c-b6eb-779465d03316",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T14:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 220.67,
+        "response_size_bytes": 1126,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8119815e-9264-4320-8e84-97fdf96c74fa",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T14:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 284.06,
+        "response_size_bytes": 3424,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "eb4f6a87-5a3b-40c4-9acf-69205a7df2d3",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T14:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 703.27,
+        "response_size_bytes": 7727,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0f89bddc-6afe-48f5-a2b0-39c937e31040",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T14:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 92.69,
+        "response_size_bytes": 2368,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "bd2a2e2c-0a38-4bcd-b117-f132f7efcee1",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T14:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 509.87,
+        "response_size_bytes": 13225,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fc12a3c8-9a3b-4175-9bad-e0cc977fd8c8",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T14:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 333.54,
+        "response_size_bytes": 4224,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5856526d-3fd1-4d80-a109-158bb58df89b",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T15:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 188.7,
+        "response_size_bytes": 1147,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "02c016d4-6084-45af-b5f0-af31039de43f",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T15:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 324.51,
+        "response_size_bytes": 3625,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "28ae79bf-a865-4e9f-a3c9-31e969d7980a",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T15:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 750.28,
+        "response_size_bytes": 8314,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d80844ac-b573-4d75-95c5-50e3bd26531e",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T15:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 77.64,
+        "response_size_bytes": 2264,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "bb82390c-2974-4be8-993f-131f9b964659",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T15:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 560.48,
+        "response_size_bytes": 13270,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "03bb9db4-0849-43db-8056-94633aaf23e6",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T15:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 398.29,
+        "response_size_bytes": 4089,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d461d324-019a-4a43-bb17-c30285c3be9c",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T15:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 201.21,
+        "response_size_bytes": 1313,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "eec0d630-8dd1-490c-a8f7-71dcb6c0bf03",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T15:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 306.49,
+        "response_size_bytes": 3336,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "05ee0a05-c613-4f0e-8e2d-b534c24a3b81",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T15:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 798.24,
+        "response_size_bytes": 8805,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d9a47ea3-c413-42f6-951e-8ef859938315",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T15:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 88.64,
+        "response_size_bytes": 2069,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1f1d721a-f21b-48e3-a2cb-a99e1478acc5",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T15:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 548.96,
+        "response_size_bytes": 13672,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "aef89689-835a-46ee-a5fc-609085445819",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T15:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 398.69,
+        "response_size_bytes": 4283,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5dd67719-880b-4089-a708-4580e09b309a",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T16:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 220.94,
+        "response_size_bytes": 1145,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b113fbe8-976d-4044-a30a-3328ece1b710",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T16:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 295.34,
+        "response_size_bytes": 3469,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "41583d0d-3ce3-4594-ab7c-293f16175eba",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T16:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 610.66,
+        "response_size_bytes": 8519,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "ead184c0-15e3-4ebb-ae11-8a2157ad1993",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T16:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 83.2,
+        "response_size_bytes": 2332,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fbd22757-7927-4f83-bec3-4c383e99e6a4",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T16:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 508.64,
+        "response_size_bytes": 13321,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "01fb75fe-f09f-4b43-b3ac-19fb476650e9",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T16:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 328.46,
+        "response_size_bytes": 4129,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9ae09332-7e57-4592-a0a2-8e8314017c21",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T16:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 217.53,
+        "response_size_bytes": 1162,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b273274a-1e3c-488f-b393-79336fb29d40",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T16:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 358.59,
+        "response_size_bytes": 3317,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e6b46ad5-8061-4f81-826a-dbd369b024ef",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T16:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 828.49,
+        "response_size_bytes": 8467,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b74ad1ea-e709-4c55-93c6-e4194204eccb",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T16:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 79.02,
+        "response_size_bytes": 2182,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e2a45123-7307-4a89-980f-66ab580ccd07",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T16:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 512.56,
+        "response_size_bytes": 13474,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fafa7f7c-f98d-4fa0-8962-ecb77c073330",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T16:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 395.06,
+        "response_size_bytes": 4375,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fc6dc203-b65e-4ade-ac00-2c1f98cd480f",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T17:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 190.63,
+        "response_size_bytes": 1247,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "38c06ae2-7656-4c28-8d4f-9b011b4a7827",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T17:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 337.33,
+        "response_size_bytes": 3215,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f667d61a-72ec-472b-9bc9-3a2e1e3aa75e",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T17:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 637.44,
+        "response_size_bytes": 7922,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4a6a8177-06cd-46c2-b4b0-7697bfbe52c1",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T17:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 97.7,
+        "response_size_bytes": 2206,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "378146f1-842e-4a86-b95a-f7135a591f89",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T17:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 405.79,
+        "response_size_bytes": 12828,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "56ffe2f5-a518-4b64-851b-626647c700be",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T17:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 305.3,
+        "response_size_bytes": 4297,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d92c4fd9-36c1-4b56-bf17-372d4a49250e",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T17:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 183.17,
+        "response_size_bytes": 1183,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8db1b87b-1ac9-4c4b-a29d-c73ab05bd9ba",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T17:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 353.77,
+        "response_size_bytes": 3597,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d268f244-9bd5-4298-9f37-e0b4bf425235",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T17:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 752.47,
+        "response_size_bytes": 8098,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1b0a473a-aada-4cb0-89ef-901315e996dc",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T17:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 82.05,
+        "response_size_bytes": 2256,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5d3d9c11-c6ab-41a1-9091-9e1f2a966c47",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T17:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 415.39,
+        "response_size_bytes": 13318,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "27fe9008-1158-4cb5-937b-160b08c6236e",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T17:30:00+00:00",
+        "status_code": 429,
+        "response_time_ms": null,
+        "response_size_bytes": null,
+        "availability_flag": 0,
+        "error_message": "Rate Limit Exceeded: 429 Too Many Requests"
+    },
+    {
+        "monitoring_id": "0820ef74-9829-4cbe-a343-3d661f5e57cc",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T18:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 219.13,
+        "response_size_bytes": 1153,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "bb692930-3a43-4608-afad-22d5c11f7b41",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T18:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 346.19,
+        "response_size_bytes": 3460,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "84841cae-d739-4f7c-97d0-89187da773f3",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T18:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 638.92,
+        "response_size_bytes": 7916,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4c9c0ed2-39be-434b-acaf-3c5cb982fcbb",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T18:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 98.57,
+        "response_size_bytes": 2109,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "61f82371-c4c5-4267-8af2-0eeb343f3265",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T18:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 528.75,
+        "response_size_bytes": 14432,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2577a2ee-c542-4e92-a640-b048a0df3a56",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T18:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 307.6,
+        "response_size_bytes": 3971,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "11488bf5-cf45-4e5b-b4ae-8744aa56d374",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T18:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 186.09,
+        "response_size_bytes": 1265,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "cde918a1-f2f1-477e-a231-a18f466a4050",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T18:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 323.97,
+        "response_size_bytes": 3780,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c9cd087f-50fc-4a17-ab7b-14f3ecdb6af0",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T18:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 643.72,
+        "response_size_bytes": 8997,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "106102ab-9d17-4107-9bc5-c4452cf9939a",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T18:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 106.47,
+        "response_size_bytes": 2311,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4522a559-6ca3-4d88-a316-e1bdc0fcf0b8",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T18:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 514.64,
+        "response_size_bytes": 14983,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "74baa2a7-ff97-4ecd-9785-15a0a74dc9f9",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T18:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 404.27,
+        "response_size_bytes": 3955,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9b549146-4e89-4dff-9ee7-4d621aa9ed98",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T19:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 228.07,
+        "response_size_bytes": 1319,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "955b76ff-dd89-4e7f-9ca2-b92c1b070451",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T19:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 320.73,
+        "response_size_bytes": 3753,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "7cef7bd0-9518-4a80-b67a-4d77deca616a",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T19:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 659.89,
+        "response_size_bytes": 7790,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "054234d9-5cda-4d68-b914-218b9956ca0a",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T19:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 84.96,
+        "response_size_bytes": 2268,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "986790ca-913e-471c-888e-37e9e1937d00",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T19:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 471.99,
+        "response_size_bytes": 14596,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "7aca77d9-11bf-4726-b774-93bbd28b70b1",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T19:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 339.92,
+        "response_size_bytes": 4216,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "84a52f7b-b80b-4ae3-b2f5-8ced9a04a9bc",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T19:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 185.39,
+        "response_size_bytes": 1216,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "1fd0263e-a1c6-4221-840c-1040308ccffc",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T19:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 338.2,
+        "response_size_bytes": 3180,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b2f678cb-ca4d-42bf-a212-30aace529536",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T19:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 642.11,
+        "response_size_bytes": 8929,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "ab816654-4bde-4b51-b89e-f7bdd03f7547",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T19:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 85.92,
+        "response_size_bytes": 2328,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "ef2c03e8-3d49-40f8-b605-8fc8e66d1ca5",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T19:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 434.13,
+        "response_size_bytes": 13579,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "19ebcff3-d1e9-497a-bfaf-98e76917ec1e",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T19:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 408.03,
+        "response_size_bytes": 4075,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2d8cee1d-1c7c-42e9-b552-23d0c0331f1b",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T20:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 207.35,
+        "response_size_bytes": 1151,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d6483661-1124-4c62-b8d8-087705409e39",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T20:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 285.73,
+        "response_size_bytes": 3795,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2df34abe-38c3-47fe-8336-f516acce456d",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T20:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 824.91,
+        "response_size_bytes": 8134,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "43e43a2d-de46-488c-bc59-e77260246d92",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T20:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 92.43,
+        "response_size_bytes": 1990,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5790ac22-eba4-499b-a175-7f7c45629135",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T20:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 554.47,
+        "response_size_bytes": 14778,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "64d71230-5e75-4672-9aac-614a809164be",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T20:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 392.41,
+        "response_size_bytes": 4261,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "78ed4aad-d674-4e3a-9a98-ed09d70ce599",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T20:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 193.86,
+        "response_size_bytes": 1296,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b3294dcb-5dea-43cb-a0d7-129d38dc8a56",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T20:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 325.62,
+        "response_size_bytes": 3592,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "57e14c94-b897-4fe9-a135-11035a915d22",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T20:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 783.15,
+        "response_size_bytes": 8312,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "37074dc3-66de-4c9f-a6e6-43151371b983",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T20:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 102.77,
+        "response_size_bytes": 2102,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "57056569-9e73-4f0d-b4d1-3ad08c707463",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T20:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 508.81,
+        "response_size_bytes": 14102,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5f866169-45bc-4172-9bc0-cd250514cc80",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T20:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 365.46,
+        "response_size_bytes": 3614,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "37f13d57-a3fe-404f-bf26-fa7e205043f1",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T21:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 224.28,
+        "response_size_bytes": 1247,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "92a8a873-8fde-4683-bd29-38a3aa81343b",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T21:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 336.73,
+        "response_size_bytes": 3523,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2d90f106-3539-4a92-806b-2d42dbc8f7b2",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T21:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 694.74,
+        "response_size_bytes": 9160,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b06395dc-25e8-4983-ab86-392d8cbd2ec4",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T21:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 89.78,
+        "response_size_bytes": 2137,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c5eafcd0-b89b-4408-b1a0-dc8ac41553a2",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T21:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 503.08,
+        "response_size_bytes": 13122,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "80f7ca32-e402-4ae5-a87a-33dfdd9054e2",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T21:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 303.52,
+        "response_size_bytes": 3974,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6e1be769-d377-48ed-a6f9-dc3bafea5d99",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T21:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 223.11,
+        "response_size_bytes": 1214,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "22a1f03d-07ff-4119-876d-2e91fb944dcb",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T21:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 325.84,
+        "response_size_bytes": 3306,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b8e6fb1a-4da8-403a-a41b-1387be5f8eba",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T21:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 739.29,
+        "response_size_bytes": 8894,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "65ccc55c-5d4b-44f6-bf60-0a9af4baae9e",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T21:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 87.06,
+        "response_size_bytes": 2404,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2e1ed278-60d8-4814-a0b3-23e79f5b8607",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T21:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 444.68,
+        "response_size_bytes": 12885,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "37e2149a-6d20-4c05-bf44-2af16699eb14",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T21:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 399.35,
+        "response_size_bytes": 4347,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "13f024d3-84e3-4bcf-9887-65d523f63f64",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T22:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 221.58,
+        "response_size_bytes": 1294,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "84849cb1-818d-4179-8246-18c40e4a5a66",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T22:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 339.0,
+        "response_size_bytes": 3716,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "b32f1996-7375-4471-8546-96649e669912",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T22:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 708.33,
+        "response_size_bytes": 8111,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "6419eefb-b696-4c39-b9ca-cf8962c20302",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T22:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 92.28,
+        "response_size_bytes": 2175,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "9eaecdc0-6d50-4540-8c9b-79d5d20e042a",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T22:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 512.02,
+        "response_size_bytes": 13896,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f95c3e35-488a-4d01-aa66-bf251bd791b5",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T22:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 354.5,
+        "response_size_bytes": 4049,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "78f81543-7bf4-4e44-a486-dfbe058e1c18",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T22:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 200.35,
+        "response_size_bytes": 1114,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "fff15321-4206-4a50-be35-bcc932332e6a",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T22:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 327.08,
+        "response_size_bytes": 3378,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "24c4b812-84c1-488f-80dd-d6a556a21156",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T22:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 666.56,
+        "response_size_bytes": 8208,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0c810df5-c4f6-4c6c-ba6f-7d7a902a5dbf",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T22:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 77.32,
+        "response_size_bytes": 2048,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2dd408dd-b967-4c0d-bbdb-5cb15eb8c14d",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T22:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 526.4,
+        "response_size_bytes": 15049,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d214c11f-1ea4-4b4b-95c5-82013a4cd9d5",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T22:30:00+00:00",
+        "status_code": 429,
+        "response_time_ms": null,
+        "response_size_bytes": null,
+        "availability_flag": 0,
+        "error_message": "Rate Limit Exceeded: 429 Too Many Requests"
+    },
+    {
+        "monitoring_id": "80770d6a-79d2-4e65-8011-8abcd5ec1e87",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T23:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 219.6,
+        "response_size_bytes": 1181,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "3595498f-84b2-412d-85d5-aabd090a884e",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T23:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 326.21,
+        "response_size_bytes": 3378,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4888813b-b62c-4d2d-80b8-156399b03acb",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T23:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 891.12,
+        "response_size_bytes": 8959,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "dacd08a3-2bca-4f96-8d4e-77513f1b299d",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T23:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 88.83,
+        "response_size_bytes": 2311,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4aba4ab4-4ad0-4c1c-98aa-5e31ec48602e",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T23:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 476.15,
+        "response_size_bytes": 14185,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "f32441aa-2b20-47f6-8887-6c8f28b16a10",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T23:00:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 307.52,
+        "response_size_bytes": 3716,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0fc40787-ae10-41b0-ae0a-4af72cce34a5",
+        "api_name": "GitHub",
+        "timestamp": "2026-05-09T23:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 190.4,
+        "response_size_bytes": 1265,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c001cf05-6c06-4d9e-8d29-3f663d9c2d01",
+        "api_name": "StackExchange",
+        "timestamp": "2026-05-09T23:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 354.27,
+        "response_size_bytes": 3165,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "379674c4-5d14-4997-8641-5c47d8663f2b",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-05-09T23:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 775.37,
+        "response_size_bytes": 8607,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "927e9e78-8537-49f1-a759-de543f4c13d5",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-05-09T23:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 105.39,
+        "response_size_bytes": 2175,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "80c133d3-a7e3-4f90-93ca-5ba3ace8f596",
+        "api_name": "SpaceX",
+        "timestamp": "2026-05-09T23:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 452.06,
+        "response_size_bytes": 13367,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "efb6dbec-9695-4261-9bba-0c4fd04f99cd",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-05-09T23:30:00+00:00",
+        "status_code": 200,
+        "response_time_ms": 390.83,
+        "response_size_bytes": 4133,
+        "availability_flag": 1,
+        "error_message": null
+    }
+]

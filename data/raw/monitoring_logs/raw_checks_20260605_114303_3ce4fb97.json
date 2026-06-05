@@ -1,0 +1,62 @@
+[
+    {
+        "monitoring_id": "a8f6c1ba-b278-42b2-bcab-69bdd5ff8853",
+        "api_name": "GitHub",
+        "timestamp": "2026-06-05T11:42:59.016155+00:00",
+        "status_code": 200,
+        "response_time_ms": 247.92,
+        "response_size_bytes": 530,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "2f2c6ebb-12e9-47de-a8eb-0c99738b4d82",
+        "api_name": "StackExchange",
+        "timestamp": "2026-06-05T11:42:59.264872+00:00",
+        "status_code": 200,
+        "response_time_ms": 937.42,
+        "response_size_bytes": 53664,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e1002a0a-a355-40ff-a461-308a8048046c",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-06-05T11:43:00.203141+00:00",
+        "status_code": 200,
+        "response_time_ms": 1866.87,
+        "response_size_bytes": 50175,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d74ceebb-1b63-461f-acaa-0a7ab5383558",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-06-05T11:43:02.071005+00:00",
+        "status_code": 200,
+        "response_time_ms": 391.03,
+        "response_size_bytes": 8473,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "5cf96f1d-b6f1-44ea-83c0-a0049fd4b72b",
+        "api_name": "SpaceX",
+        "timestamp": "2026-06-05T11:43:02.462639+00:00",
+        "status_code": 200,
+        "response_time_ms": 760.11,
+        "response_size_bytes": 768,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c40f157c-bb8a-4c9a-8964-3e4748c16d5b",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-06-05T11:43:03.223384+00:00",
+        "status_code": 200,
+        "response_time_ms": 444.0,
+        "response_size_bytes": 34,
+        "availability_flag": 1,
+        "error_message": null
+    }
+]

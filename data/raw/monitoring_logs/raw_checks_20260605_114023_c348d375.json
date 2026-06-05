@@ -1,0 +1,62 @@
+[
+    {
+        "monitoring_id": "50ac207b-0442-4810-a61b-78701a56ee1c",
+        "api_name": "GitHub",
+        "timestamp": "2026-06-05T11:40:18.967568+00:00",
+        "status_code": 200,
+        "response_time_ms": 218.52,
+        "response_size_bytes": 530,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "8a6bcd9c-9917-4b05-8318-0d1daa3791e5",
+        "api_name": "StackExchange",
+        "timestamp": "2026-06-05T11:40:19.186876+00:00",
+        "status_code": 200,
+        "response_time_ms": 935.28,
+        "response_size_bytes": 53664,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "a9cf67de-6e29-4877-b0a3-d6ea08143375",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-06-05T11:40:20.123197+00:00",
+        "status_code": 200,
+        "response_time_ms": 1160.66,
+        "response_size_bytes": 50176,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "d4c31a6b-3bd0-4dba-9927-da474cdd84f7",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-06-05T11:40:21.284930+00:00",
+        "status_code": 200,
+        "response_time_ms": 375.61,
+        "response_size_bytes": 8473,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "71cba25b-572c-42c4-92d0-1261a1291068",
+        "api_name": "SpaceX",
+        "timestamp": "2026-06-05T11:40:21.661474+00:00",
+        "status_code": 200,
+        "response_time_ms": 1717.01,
+        "response_size_bytes": 768,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "12a20d0d-d34c-4e16-bf68-339d0c681035",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-06-05T11:40:23.379848+00:00",
+        "status_code": 200,
+        "response_time_ms": 457.22,
+        "response_size_bytes": 34,
+        "availability_flag": 1,
+        "error_message": null
+    }
+]

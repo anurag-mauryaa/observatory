@@ -1,0 +1,15 @@
+monitor_interval_minutes: 15
+timeout_seconds: 10
+apis:
+  - GitHub
+  - StackExchange
+  - OpenLibrary
+  - JSONPlaceholder
+  - SpaceX
+  - CoinGecko
+database:
+  file_name: api_observatory.duckdb
+  paths:
+    raw: data/raw
+    processed: data/processed
+    warehouse: data/warehouse

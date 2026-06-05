@@ -1,0 +1,62 @@
+[
+    {
+        "monitoring_id": "14883b3f-2f28-4b85-bee5-3e977fc9c3c0",
+        "api_name": "GitHub",
+        "timestamp": "2026-06-05T11:42:52.638976+00:00",
+        "status_code": 200,
+        "response_time_ms": 254.3,
+        "response_size_bytes": 530,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "c0554192-c5c9-40d0-ab49-8478b101fe6d",
+        "api_name": "StackExchange",
+        "timestamp": "2026-06-05T11:42:52.894202+00:00",
+        "status_code": 200,
+        "response_time_ms": 858.99,
+        "response_size_bytes": 53664,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "592f943d-537b-4d87-ab40-1f4564f627de",
+        "api_name": "OpenLibrary",
+        "timestamp": "2026-06-05T11:42:53.753909+00:00",
+        "status_code": 200,
+        "response_time_ms": 1180.84,
+        "response_size_bytes": 50176,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "4f1081fd-368b-4e7e-b4e5-253ee0597b1c",
+        "api_name": "JSONPlaceholder",
+        "timestamp": "2026-06-05T11:42:54.935415+00:00",
+        "status_code": 200,
+        "response_time_ms": 424.53,
+        "response_size_bytes": 8473,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "0b0a2a5f-7912-4a91-9f72-8e0a784917ec",
+        "api_name": "SpaceX",
+        "timestamp": "2026-06-05T11:42:55.360721+00:00",
+        "status_code": 200,
+        "response_time_ms": 627.01,
+        "response_size_bytes": 768,
+        "availability_flag": 1,
+        "error_message": null
+    },
+    {
+        "monitoring_id": "e711fc99-0d43-4c94-936a-2a8491d791ce",
+        "api_name": "CoinGecko",
+        "timestamp": "2026-06-05T11:42:55.988463+00:00",
+        "status_code": 200,
+        "response_time_ms": 438.6,
+        "response_size_bytes": 34,
+        "availability_flag": 1,
+        "error_message": null
+    }
+]
