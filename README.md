@@ -7,6 +7,9 @@ API Observatory is a production-style API health tracking and data warehousing p
 ---
 
 ### Screenshots
+ ![alt text](assets/Homepage_obser.png)
+ 
+ ![alt text](assets/api_page.png)
 
 
 ## System Architecture
