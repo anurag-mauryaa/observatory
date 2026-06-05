@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: api-observatory
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python ui/app.py
